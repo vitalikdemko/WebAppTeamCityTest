@@ -12,7 +12,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace WebApplicationTC
 {
-    public class Startup
+    public class Startup 
     {
         public Startup(IConfiguration configuration)
         {
